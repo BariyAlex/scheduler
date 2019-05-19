@@ -1,0 +1,9 @@
+{
+    "name": "bariy-alex/scheduler",
+    "autoload": {
+        "psr-4": {
+            "Scheduler\\": "src/"
+        }
+    },
+    "require": {}
+}
