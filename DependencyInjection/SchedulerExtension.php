@@ -13,6 +13,5 @@ class SchedulerExtension extends Extension
     {
         $configuration = $this->getConfiguration($configs, $container);
         $config = $this->processConfiguration($configuration, $configs);
-        $a = 10;
     }
 }
